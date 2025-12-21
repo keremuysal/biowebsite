@@ -23,7 +23,7 @@ This is a minimalist, responsive, and dark-themed personal landing page designed
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/keremuysal/biowebsite.git](https://github.com/keremuysal/biowebsite.git)
+    git clone https://github.com/keremuysal/biowebsite.git
     ```
 2.  **Customize the content:**
     * Open `index.html` to update the links (`href`) and text.
@@ -56,7 +56,7 @@ Bu proje, tüm sosyal medya hesaplarımı, portföyümü ve iletişim bilgilerim
 
 1.  **Repoyu klonlayın:**
     ```bash
-    git clone [https://github.com/keremuysal/biowebsite.git](https://github.com/keremuysal/biowebsite.git)
+    git clone https://github.com/keremuysal/biowebsite.git
     ```
 2.  **İçeriği düzenleyin:**
     * Bağlantıları (`href`) ve metinleri değiştirmek için `index.html` dosyasını açın.
