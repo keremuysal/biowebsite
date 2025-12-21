@@ -1,0 +1,69 @@
+### **KEREM UYSAL - KAPSAMLI YAZILIM LİSANS SÖZLEŞMESİ**
+
+**Sürüm:** 2.0
+**Son Güncelleme:** 3 Ağustos 2025
+
+**UYARI:** BU YAZILIMI (“biowebsite”) KOPYALAYARAK, KURARAK VEYA HERHANGİ BİR ŞEKİLDE KULLANARAK, AŞAĞIDAKİ TÜM HÜKÜM VE KOŞULLARI KABUL ETMİŞ OLURSUNUZ. EĞER BU SÖZLEŞMENİN ŞARTLARINI KABUL ETMİYORSANIZ, YAZILIMI KULLANMAYINIZ, KOPYALAMAYINIZ VEYA DAĞITMAYINIZ.
+
+---
+
+**TÜM HAKLARI SAKLIDIR — KEREM UYSAL ÖZEL MÜLKİYET LİSANSI**
+---------------------------------------------------------
+
+Telif Hakkı (c) 2025 Kerem Uysal
+
+İşbu yazılım ve beraberindeki tüm belgeler, kaynak kodları, nesne kodları, algoritmalar, tasarımlar, görseller ve diğer materyaller (topluca “biowebsite” olarak anılacaktır) Kerem Uysal’a (“Lisans Sahibi”) aittir ve onun münhasır fikri mülkiyetidir. Yazılım, 5846 sayılı Fikir ve Sanat Eserleri Kanunu, 6769 sayılı Sınai Mülkiyet Kanunu ve ilgili diğer ulusal ve uluslararası telif hakkı anlaşmaları ve yasaları ile korunmaktadır.
+
+**MADDE 1: TANIMLAR**
+
+*   **Yazılım:** Bu sözleşme kapsamında lisanslanan, Kerem Uysal tarafından geliştirilmiş bilgisayar programı, kaynak kodları, nesne kodları, kütüphaneler, APIʹler, veritabanları, belgeler ve ilgili tüm materyaller.
+*   **Lisans Sahibi:** Yazılımın ve tüm fikri mülkiyet haklarının sahibi olan Kerem Uysal.
+*   **Kullanıcı:** Yazılımı bu sözleşme koşulları dahilinde kullanma hakkı tanınan gerçek veya tüzel kişi.
+*   **Fikri Mülkiyet Hakları:** Telif hakları, patentler, ticari markalar, ticari sırlar, know-how ve diğer tüm tescilli haklar.
+*   **Türev Eser:** Yazılımın veya herhangi bir bölümünün değiştirilmesi, tercüme edilmesi, uyarlanması veya yeniden biçimlendirilmesi yoluyla oluşturulan yeni ve özgün olmayan eserler.
+
+**MADDE 2: LİSANSIN KAPSAMI VE KULLANIM KOŞULLARI**
+
+**2.1. Lisans Verilmesi:** Lisans Sahibi, bu sözleşmenin tüm koşullarına uyulması kaydıyla, Kullanıcıʹya münhasır olmayan, devredilemez ve alt lisanslanamaz bir kullanım hakkı verir. Bu hak, Yazılımın yalnızca Lisans Sahibi tarafından belirtilen amaç ve sınırlar dahilinde kullanılmasını kapsar.
+
+**2.2. Kesin Yasaklar:** Aşağıdaki eylemler kesinlikle yasaktır ve lisansın derhal feshine yol açar:
+*   Yazılımın tamamının ya da bir kısmının, Lisans Sahibi’nin önceden verilmiş açık ve yazılı izni olmaksızın kopyalanması, çoğaltılması, dağıtılması, yayınlanması, kiralanması, satılması veya herhangi bir şekilde üçüncü tarafların erişimine sunulması.
+*   Yazılımın kaynak koduna dönüştürülmesi (tersine mühendislik), parçalara ayrıştırılması (decompilation) veya başka bir şekilde kaynak kodunun elde edilmeye çalışılması.
+*   Yazılım üzerindeki telif hakkı, ticari marka veya diğer mülkiyet bildirimlerinin kaldırılması veya değiştirilmesi.
+*   Yazılımın, rakip bir ürün veya hizmet geliştirmek amacıyla kullanılması.
+
+**MADDE 3: TİCARİ KULLANIM YASAĞI**
+
+Yazılım, Lisans Sahibi’nin açık ve yazılı izni olmaksızın hiçbir surette ticari bir amaçla kullanılamaz. Bu yasak, aşağıdakileri ve bunlarla sınırlı olmamak üzere diğer tüm ticari faaliyetleri kapsar:
+*   Yazılımın veya ondan türetilmiş herhangi bir ürünün doğrudan veya dolaylı olarak satışı, kiralanması veya bir hizmetin parçası olarak sunulması.
+*   Yazılımın bir "Hizmet Olarak Yazılım" (SaaS), "Platform Olarak Hizmet" (PaaS) veya benzeri bir modelde kullanılarak gelir elde edilmesi.
+*   Yazılımın işlevselliğini kullanarak üçüncü taraflara ücretli danışmanlık, destek veya benzeri hizmetler verilmesi.
+
+**MADDE 4: DEĞİŞİKLİK, GÜNCELLEME VE TÜREV ESERLER**
+
+*   **Mülkiyet:** Yazılım üzerinde Kullanıcı tarafından yapılabilecek tüm değişiklikler, iyileştirmeler, eklentiler, yamalar ve bunlardan doğan tüm Türev Eserler de dahil olmak üzere, bu çalışmaların ve bunlara ilişkin Fikri Mülkiyet Hakları’nın tamamı otomatik olarak ve münhasıran Lisans Sahibi’ne ait olacaktır.
+*   **İzin Gerekliliği:** Yazılımdan Türev Eser oluşturmak veya Yazılım üzerinde herhangi bir değişiklik yapmak, Lisans Sahibi’nin önceden yazılı iznini gerektirir. İzinsiz yapılan tüm değişiklikler, bu sözleşmenin esaslı bir ihlali olarak kabul edilir.
+
+**MADDE 5: GARANTİ REDDİ VE SORUMLULUK SINIRLAMASI**
+
+**5.1. Garanti Reddi:** Yazılım, Kullanıcı’ya “OLDUĞU GİBİ” ve “TÜM HATALARIYLA BİRLİKTE” sunulmaktadır. Lisans Sahibi, Yazılımın kesintisiz, hatasız veya güvenli olacağına dair herhangi bir taahhütte bulunmaz. Yasaların izin verdiği en geniş ölçüde, pazarlanabilirlik, belirli bir amaca uygunluk ve fikri mülkiyet ihlali yapmama gibi tüm zımni veya açık garantiler reddedilmektedir.
+
+**5.2. Sorumluluk Sınırlaması:** Hiçbir durumda Lisans Sahibi (Kerem Uysal), Yazılımın kullanımından veya kullanılamamasından kaynaklanan kâr kaybı, veri kaybı, iş kesintisi, itibar zedelenmesi gibi doğrudan, dolaylı, özel, arızi veya sonuç olarak ortaya çıkan zararlardan sorumlu tutulamaz. Bu sınırlama, Lisans Sahibi’ne bu tür zararların olasılığı hakkında bilgi verilmiş olsa dahi geçerlidir. Kullanıcı, Yazılımın kullanımına ilişkin tüm riskin kendisine ait olduğunu kabul eder.
+
+**MADDE 6: SÖZLEŞMENİN SÜRESİ VE FESHİ**
+
+*   **Süre:** Bu lisans sözleşmesi, Kullanıcı tarafından Yazılımın ilk kez kullanıldığı tarihte yürürlüğe girer ve feshedilene kadar yürürlükte kalır.
+*   **Fesih:** Kullanıcı, bu sözleşmedeki herhangi bir maddeyi ihlal ederse, lisans otomatik olarak ve bildirim yapılmaksızın derhal sona erer. Fesih durumunda, Kullanıcı Yazılımın tüm kopyalarını imha etmeli ve kullanımını derhal durdurmalıdır. Lisans Sahibi, yasal yollara başvurma hakkını saklı tutar.
+
+**MADDE 7: YARGI YETKİSİ VE UYGULANACAK HUKUK**
+
+Bu lisans sözleşmesinin yorumlanmasından, geçerliliğinden veya uygulanmasından doğabilecek her türlü uyuşmazlıkta Türkiye Cumhuriyeti yasaları uygulanacaktır. Taraflar, bu sözleşmeden kaynaklanan tüm ihtilafların çözümü için münhasıran Bursa (Merkez) Mahkemeleri ve İcra Daireleriʹnin yetkili olduğunu gayrikabili rücu olarak kabul ederler.
+
+**MADDE 8: GENEL HÜKÜMLER**
+
+*   **Bölünebilirlik:** Bu sözleşmenin herhangi bir hükmünün yetkili bir mahkeme tarafından geçersiz veya uygulanamaz bulunması halinde, söz konusu hüküm sözleşmeden ayrılmış kabul edilecek ve sözleşmenin geri kalanı tam olarak yürürlükte kalmaya devam edecektir.
+*   **Feragat:** Taraflardan birinin bu sözleşmedeki herhangi bir hakkını veya yetkisini kullanmaması veya gecikmeli kullanması, bu haktan feragat ettiği anlamına gelmez.
+*   **Sözleşmenin Bütünlüğü:** Bu sözleşme, taraflar arasında Yazılımın lisanslanmasına ilişkin anlaşmanın tamamını oluşturur ve daha önce yapılmış tüm sözlü veya yazılı anlaşmaların yerine geçer.
+*   **İletişim:** Lisans koşullarının genişletilmesi, ticari kullanım izinleri, iş birliği teklifleri veya diğer tüm sorular için Lisans Sahibi’ne ait olan (https://keremuysal.com) web adresi üzerinden iletişim kurulmalıdır.
+
+--- **SÖZLEŞMENİN SONU** ---
